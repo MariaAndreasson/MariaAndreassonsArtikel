@@ -1,0 +1,14 @@
+header   {
+  background-color:black;
+  color: red;
+  text-shadow: 1px 1px 1px black;
+}
+footer   {
+    background-color:black;
+    color:red;
+  }
+  main {
+  background-color:red;
+  color:black;
+  }    
+  }
